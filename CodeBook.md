@@ -20,4 +20,4 @@ x_train, y_train, x_test, y_test, subject_train and subject_test takes the data 
 
 x_data, y_data and subject_data merge the previous datasets to make further analysis.
 
-features contains the correct names for the x_data dataset, which are applied to the column names stored in
+features contains the correct names for the x_data dataset, which are applied to the column names stored in.
